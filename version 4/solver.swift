@@ -1,0 +1,4 @@
+
+func stuff() {
+    print("hi")
+}
